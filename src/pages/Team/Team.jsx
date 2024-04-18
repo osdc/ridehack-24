@@ -1,4 +1,4 @@
-// import './Team.css'
+import './Team.css'
 import { FaGithub } from "react-icons/fa";
 import { FaDiscord } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
@@ -32,25 +32,37 @@ const Team = () => {
         // </div>
         <>
          <div className='codeofconduct'>
-            <div className="codheading">&lt;brochure&gt;</div>
+            <div className="codheading">&lt;guidelines&gt;</div>
             <div className="codcontent">
             <div className="brochurebutton">
-            <button className="brochureButtonDownload"><a href="https://drive.google.com/file/d/1HYrVH3nXDyVtFgqvpyAC2GZOdzx8-CgP/view?usp=sharing">&lt;download brochure&gt;</a></button>
+            {/* <button className="brochureButtonDownload"><a href="https://drive.google.com/file/d/1HYrVH3nXDyVtFgqvpyAC2GZOdzx8-CgP/view?usp=sharing">&lt;download brochure&gt;</a></button> */}
             </div>
                 <div>
-                TL;DR: OSDHack fosters an inclusive environment where everyone is respected. Harassment, abuse, or any behavior causing discomfort are not tolerated. Participants, including organizers and volunteers, must adhere to this Code of Conduct.
+                RIDE (Research, Innovation, Development and Entrepreneurship) at JIIT Noida presents RIDE-Hack’24. This hackathon is open for students of all four universities of Jaypee Higher Education Systems (JIIT Noida, JUIT Waknaghat, JUET Guna, and JU Anoopsahar). Students in a team of maximum 6 members will participate in RIDE-Hack’24.
                 </div>
                 <div>
-                If you experience or witness harassment, please report it using the provided procedures. We prioritize your safety and well-being.
+                <span className='phases'>Theme of RIDE-Hack’24 is</span> “Build your own Startup”
                 </div>
                 <div>
-                Our expectations are simple: respect others, use inclusive language, accept different viewpoints graciously, and create space for everyone to participate. Unacceptable behavior includes harassment, discriminatory speech/actions, threats, disruption of events, and unauthorized recording.
+                <span className='phases'>Team Size:</span> Maximum 6 Students
                 </div>
                 <div>
-                If you believe the Code of Conduct is violated, report it to the event organizer or use the provided incident report form. Incidents will be reviewed, and appropriate actions will be taken, which may include education, removal from the event, or restrictions from future participation.
+                <span className='phases'>Problem Statement:</span> Students need to propose their own ideas for their startups from any domain
+                </div>
+                <div className="phases">
+                RIDEHack’24 will be organised in following phases:
                 </div>
                 <div>
-                We expect all participants to uphold these standards at all event-related activities. Let's ensure a safe and positive experience for everyone involved.
+                <span className='phases'>Phase 1:</span> All four universities will conduct the Hackathon at their respective campuses.
+                </div>
+                <div>
+                <span className='phases'>Phase 2:</span> Shortlisted teams from different universities in Phase 1 will participate in Phase 2 at Sector 62 campus of JIIT Noida. Accommodation for the selected teams from JUIT, JUET, and JUA will be provided at JIIT Sec 62 hostels. Tentatively, the Phase 2 will be organised at the beginning of Academic Year 2024-25.
+                </div>
+                <div>
+                <span className='phases'>Phase 3:</span> Selected 50 teams from Phase 2 will participate in Phase 3. It is a 2 months long phase where shortlisted teams will develop/design the prototype and firm up the technical and business plan. If needed, teams may also be supervised by faculty/alumni/industry mentors.
+                </div>
+                <div>
+                <span className='phases'>Phase 4:</span> Selected 30 teams will present technical and business plan for their Startup. Teams will be evaluated. There will be provision of upto Rs. 20 Lakhs funding for each team selected for funding.
                 </div>
 
                 

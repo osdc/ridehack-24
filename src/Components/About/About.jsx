@@ -12,28 +12,28 @@ const About = () => {
                         <div className="phasediv">
                         <div className="phase">PHASE1</div>
                         </div>
-                    <div>Hackathon at respective campuses of jaypee Higher Education System.</div> 
+                    <div>All four universities will conduct the Hackathon at their respective campuses.</div> 
                     </div>
 
                     <div className="para">
                         <div className="phasediv">
                         <div className="phase">PHASE2</div>
                         </div>
-                    <div>Selected teams from pase 1 will participate at jiit 62. Special cash prizes for best teams from JIIT, JUIT, JUET, and JUA.</div> 
+                    <div>Shortlisted teams from different universities in Phase 1 will participate in Phase 2 at Sector 62 campus of JIIT Noida. Accommodation for the selected teams from JUIT, JUET, and JUA will be provided at JIIT Sec 62 hostels. Tentatively, the Phase 2 will be organised at the beginning of Academic Year 2024-25.</div> 
                     </div>
 
                     <div className="para">
                         <div className="phasediv">
                         <div className="phase">PHASE3</div>
                         </div>
-                    <div>Top 50 teams from phase 2 will advance to phase 3 for probable funding</div> 
+                    <div>Selected 50 teams from Phase 2 will participate in Phase 3. It is a 2 months long phase where shortlisted teams will develop/design the prototype and firm up the technical and business plan. If needed, teams may also be supervised by faculty/alumni/industry mentors.</div> 
                     </div>
 
                     <div className="para">
                         <div className="phasediv">
                         <div className="phase">PHASE4</div>
                         </div>
-                    <div>Selected 30 teams will present their plan to get funding of upto Rs 20 Lakhs if selected for funding.</div> 
+                    <div>Selected 30 teams will present technical and business plan for their Startup. Teams will be evaluated. There will be provision of upto Rs. 20 Lakhs funding for each team selected for funding.</div> 
                     </div>
 
                     <div className="register">

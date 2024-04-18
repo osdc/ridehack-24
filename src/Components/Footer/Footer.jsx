@@ -15,7 +15,7 @@ function Footer() {
           <h3>Quick Links</h3>
           <ul className='quicklinks'>
             <Link to="/">home</Link>
-            <Link to="/cod">code-of-conduct</Link>
+            {/* <Link to="/cod">code-of-conduct</Link> */}
             {/* <Link to="/gallery">Gallery</Link> */}
             <a target="_blank" href="https://forms.gle/JTDosdQ1dwoCRcgu5">register</a>
           </ul>

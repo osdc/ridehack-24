@@ -32,7 +32,7 @@ const Home = () => {
         <img className='jiit' src="/images/jiit.png" alt="" />
       </div>
       <div className="hbutton">
-        <Link to='/brochure'>&lt;brochure&gt;</Link>
+        <Link to='/brochure'>&lt;guidelines&gt;</Link>
         <a target="_blank" href="https://forms.gle/JTDosdQ1dwoCRcgu5">&lt;register-now&gt;</a>
       </div>
     </div>

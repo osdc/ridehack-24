@@ -81,11 +81,14 @@
 .card-content:hover {
     transform: scale(1.03);
     box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.5);
-
 }
 
 .member-card:hover .member-detail {
     visibility: visible;
     opacity: 1;
     transform: translateY(-110%);
+}
+
+.phases{
+    text-decoration: underline;
 }
