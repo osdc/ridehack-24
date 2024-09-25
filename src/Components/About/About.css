@@ -25,12 +25,17 @@
 }
 
 .phase {
-    /* background-color: #d90c39; */
-    border: 5px solid green;
+    background-color: #d90c39;
+    /* border: 5px solid green; */
     padding: 5px;
     width: 100px;
     text-align: center;
     border-radius: 20px;
+}
+
+#phase-2{
+    /* color: green; */
+    background-color: green;
 }
 
 .phasediv {

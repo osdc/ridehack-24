@@ -20,7 +20,7 @@ const About = () => {
 
             <div className="para">
               <div className="phasediv">
-                <div className="phase">PHASE2</div>
+                <div className="phase" id="phase-2">PHASE2</div>
               </div>
               <div>
                 Shortlisted teams from different universities in Phase 1 will
